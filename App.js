@@ -6,7 +6,7 @@ import { Button } from 'react-native-elements';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Kriti Matta</Text>
+      <Text>Kriti Matta!!</Text>
       <Button title = 'First Button' icon={{ name: 'code'}} />
       <StatusBar style="auto" />
     </View>
